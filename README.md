@@ -3,7 +3,10 @@
 Brick breaker 3D em estilo cyber-minimalista (neon, grid, bloom), feito com Three.js e WebAudio.
 Arquivo único, sem build.
 
-## Jogar
+## Jogar online
+https://www.dolemes.com/games/arkanoid3d/
+
+## Jogar localmente
 ```
 python3 -m http.server 8765
 ```
