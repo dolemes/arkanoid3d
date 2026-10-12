@@ -1,16 +1,9 @@
 # ARKANOID 3D — Cyber-Minimalist
 
 Brick breaker 3D em estilo cyber-minimalista (neon, grid, bloom), feito com Three.js e WebAudio.
-Arquivo único, sem build.
 
 ## Jogar online
 https://www.dolemes.com/games/arkanoid3d/
-
-## Jogar localmente
-```
-python3 -m http.server 8765
-```
-Abra http://localhost:8765/ (requer internet para carregar Three.js e fontes via CDN).
 
 ## Controles
 - Mouse / A-D / setas: mover o paddle
